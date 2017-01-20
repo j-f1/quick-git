@@ -1,0 +1,14 @@
+{
+  "name": "quick-git",
+  "version": "0.0.1",
+  "description": "Really simple git utility",
+  "main": "git.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Jed Fox",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
